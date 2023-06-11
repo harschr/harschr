@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harschr
-- 👀 I’m interested in programming - i have started to study it one and half years ago in my free time. 
-- 🌱 I’m currently learning Java (managed to secure an Oracle Java SE8 certificate) and also other things (like e.g. cloud infrastructure).
-- 💞️ I’m looking to collaborate on different topics.
+- 👀 Oracle Certified Professional, JAVA SE 8 Programmer
+- 💞️ I’m looking to collaborate on different topics
 - 📫 How to reach me? Please send email to harschr@gmail.com
 
 <!---
